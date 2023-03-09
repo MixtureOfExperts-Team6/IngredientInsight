@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Food Should Taste Good Tortilla Chips, Blue Corn, Gluten Free, $2.92 - 5.5 oz.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
