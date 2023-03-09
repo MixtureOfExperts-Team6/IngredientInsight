@@ -5,7 +5,7 @@ from tenacity import retry, wait_random_exponential
 import requests
 from pprint import pprint
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Makes sure ChatGPT doesn't go off course
 messages = [
