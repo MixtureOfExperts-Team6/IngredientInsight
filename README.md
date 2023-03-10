@@ -20,12 +20,19 @@ The innovative solution we are proposing is an app, called ‘Ingredient Insight
 
 # Team Members
 Kunjal Panchal
+
 Leticia Donkor
+
 Mariam Ajibade
+
 Oscar Holguin
+
 Hector Merejo
+
 Hunter White
+
 Leticia Donkor
+
 Mariam Ajibade
 
 
