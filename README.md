@@ -30,10 +30,3 @@ Oscar Holguin
 Hector Merejo
 
 Hunter White
-
-Leticia Donkor
-
-Mariam Ajibade
-
-
-
