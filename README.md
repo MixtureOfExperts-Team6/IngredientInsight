@@ -18,4 +18,15 @@ The innovative solution we are proposing is an app, called ‘Ingredient Insight
 <img src="IMG_9697.PNG" width='300px' alt='App Screenshot'>
 <img src="IMG_9698.PNG" width='300px' alt='App Screenshot'>
 
+# Team Members
+Kunjal Panchal
+Leticia Donkor
+Mariam Ajibade
+Oscar Holguin
+Hector Merejo
+Hunter White
+Leticia Donkor
+Mariam Ajibade
+
+
 
