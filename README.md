@@ -13,6 +13,8 @@ While eating unhealthy is in no one's wishlist, the people who cannot always aff
 
 The innovative solution we are proposing is an app, called ‘Ingredient Insight’, that would scan a food product’s barcode and list all the ingredients, price, volume, and “Nutri-score” (recommended by European Commission and WHO) of that food product. The user then would be able to click on each ingredient individually and read more in depth on that specific ingredient, including its health risk rating. The app will also have the option to recommend healthier alternatives, which would allow people to easily make better choices for their health.
 
+You can find more information about the project here: https://www.youtube.com/watch?v=6pvDrFVJw5g
+
 <img src="IMG_7533A8CC19E0-1.jpeg" width='300px' alt='App Screenshot'>
 <img src="IMG_9693.PNG" width='300px' alt='App Screenshot'>
 <img src="IMG_9697.PNG" width='300px' alt='App Screenshot'>
